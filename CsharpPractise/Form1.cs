@@ -14,7 +14,7 @@ namespace CsharpPractise
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }

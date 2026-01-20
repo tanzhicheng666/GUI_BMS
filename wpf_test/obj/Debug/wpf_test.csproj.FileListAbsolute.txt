@@ -1,0 +1,15 @@
+C:\02_git\02_development\GUI_BMS\wpf_test\bin\Debug\wpf_test.exe.config
+C:\02_git\02_development\GUI_BMS\wpf_test\bin\Debug\wpf_test.exe
+C:\02_git\02_development\GUI_BMS\wpf_test\bin\Debug\wpf_test.pdb
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.csproj.AssemblyReference.cache
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\MainWindow.g.cs
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\App.g.cs
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test_MarkupCompile.cache
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test_MarkupCompile.lref
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\MainWindow.baml
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.g.resources
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.Properties.Resources.resources
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.csproj.GenerateResource.cache
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.csproj.CoreCompileInputs.cache
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.exe
+C:\02_git\02_development\GUI_BMS\wpf_test\obj\Debug\wpf_test.pdb

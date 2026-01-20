@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpPractise", "CsharpPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_knowledge", "basic_knowledge\basic_knowledge.csproj", "{7EEFBFA7-5F58-4BF1-A770-28691395C052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_test", "wpf_test\wpf_test.csproj", "{D387101A-5039-4D66-AEAD-BD57E5AB9452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7EEFBFA7-5F58-4BF1-A770-28691395C052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEFBFA7-5F58-4BF1-A770-28691395C052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEFBFA7-5F58-4BF1-A770-28691395C052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D387101A-5039-4D66-AEAD-BD57E5AB9452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D387101A-5039-4D66-AEAD-BD57E5AB9452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D387101A-5039-4D66-AEAD-BD57E5AB9452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D387101A-5039-4D66-AEAD-BD57E5AB9452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
