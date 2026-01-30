@@ -38,4 +38,22 @@ namespace basic_knowledge
         
 
     }
+
+    #region use interface in the Class
+
+    class ClassWithInterface : IMyInterface
+    {
+        public string InterfaceName => "Class with interface";
+
+        public int InterfaceNumber => 1;
+
+        public void InterfaceMethod()
+        {
+            Console.WriteLine("this is method of class using interface!");
+        }
+
+
+    }
+
+    #endregion
 }
